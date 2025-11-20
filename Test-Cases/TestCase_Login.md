@@ -20,3 +20,14 @@ User is successfully logged in and redirected to the dashboard.
 
 ## Postconditions:
 User remains logged in.
+
+### Test Data:
+- Email: valid_user@example.com
+- Password: ValidPassword123
+
+### Actual Result:
+(Will be filled during real testing)
+
+### Status:
+(Pass / Fail)
+
